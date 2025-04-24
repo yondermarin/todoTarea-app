@@ -1,6 +1,8 @@
-# 📝 ToDo App
+# 📝 TodoTarea App
 
-Aplicación web de lista de tareas hecha con **React**, con las siguientes funcionalidades:
+
+**TodoTarea App** es una aplicación web para gestionar tareas hecha con **React**, con las siguientes funcionalidades:
+
 
 - ✅ Agregar tareas
 - ✏️ Marcar como completadas
