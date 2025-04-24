@@ -1,33 +1,35 @@
-# 📝 ToDo App - React
+# 📝 ToDo App
 
-Esta es una aplicación web de tareas creada con **React**. Permite agregar, tachar como completadas, eliminar tareas, y recuperarlas desde la papelera. También puedes filtrar entre todas, completadas y pendientes.
+Aplicación web de lista de tareas hecha con **React**, con las siguientes funcionalidades:
 
-### 🚀 Ver proyecto online:
-👉 [https://todoTarea-app.vercel.app](https://todoTarea-app.vercel.app)
+- ✅ Agregar tareas
+- ✏️ Marcar como completadas
+- 🗑️ Eliminar y enviar a papelera
+- ♻️ Restaurar desde la papelera
+- 🧹 Vaciar papelera
+- 📂 Filtros: Todos / Completados / Pendientes
+- 💾 Guarda los datos con LocalStorage
 
 ---
 
-## 🔧 Tecnologías utilizadas:
-- React
-- CSS
-- LocalStorage (para persistencia de datos)
+### 🚀 Demo en línea
+
+👉 [Haz clic aquí para ver la app funcionando](https://todo-tarea-oxxbd55kn-yondermarins-projects.vercel.app/
+)
+
+---
+
+### 🛠️ Tecnologías utilizadas
+
+- React.js
+- HTML5 + CSS3
+- JavaScript (ES6)
+- LocalStorage
 - Vercel (para despliegue)
 
 ---
 
-## 📌 Funcionalidades:
-- ✅ Agregar tareas
-- ✏️ Marcar tareas como completadas
-- ❌ Eliminar tareas (se mueven a la papelera)
-- ♻️ Restaurar tareas eliminadas
-- 🧹 Vaciar la papelera
-- 🔍 Filtrar por tareas completadas, pendientes o todas
+### 📁 Repositorio
 
----
+Este es el código completo de la aplicación. Puedes clonarlo, modificarlo o usarlo como base para tus propios proyectos.
 
-## 💡 Autor:
-Yonder Marin - [GitHub](https://github.com/yondermarin)
-
----
-
-> Proyecto creado como parte de mi portafolio para aplicar a trabajos como **desarrollador frontend React**.
