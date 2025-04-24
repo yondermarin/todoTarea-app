@@ -64,7 +64,8 @@ function App() {
 
   return (
     <div className="container">
-      <h1>ToDo App 📝</h1>
+      <h1>TodoTarea App 📝</h1>
+
 
       <input
         type="text"
