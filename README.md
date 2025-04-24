@@ -14,8 +14,8 @@ Aplicación web de lista de tareas hecha con **React**, con las siguientes funci
 
 ### 🚀 Demo en línea
 
-👉 [Haz clic aquí para ver la app funcionando](https://todo-tarea-oxxbd55kn-yondermarins-projects.vercel.app/
-)
+👉 [Haz clic aquí para ver la app funcionando](https://todo-tarea-oxxbd55kn-yondermarins-projects.vercel.app/)
+
 
 ---
 
