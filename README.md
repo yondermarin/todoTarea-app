@@ -1,3 +1,5 @@
+<img src="banner_yondernft.png" alt="Banner YonderNFT" style="width:100%; border-radius: 12px;" />
+
 # 📝 TodoTarea App
 
 
